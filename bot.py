@@ -23,7 +23,7 @@ except ImportError:
 #  কনফিগারেশন (Configuration)
 # ============================================================
 # 🌟 আপনার দেওয়া নতুন বট টোকেন এখানে আপডেট করা হয়েছে
-TOKEN = "8907855740:AAH3VApzGfx43FDuxHnM32W3iiqbpymVYeA"
+TOKEN = "8634301352:AAHZ2Rmgy8qb5gYKyrQCtSTy9057k9eJZ90"
 ADMIN_ID = 6901639746
 
 # ── 2 Panel Configuration ──
